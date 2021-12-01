@@ -103,7 +103,7 @@ const NavBar = () => {
                     <Link to='/about'>About Us</Link>
                   </li>
                   <li>
-                    <Link to='/team'>Team</Link>
+                    <Link to='/team'>Teams</Link>
                   </li>
                   <li>
                     <Link to='/team-details'>Team Details</Link>
