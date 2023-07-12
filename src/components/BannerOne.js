@@ -46,7 +46,7 @@ const BannerOne = () => {
                   data-aos-delay='250'
                   data-aos-duration='1500'
                 >
-                  And In Order To Make A Business, Brand Advertising And
+                  And In Order To Make A Business, Brands Advertising And
                   Marketing Plays An Important Role. Similarly, In Making
                   Cultivation Business Are Necessary.
                 </p>
