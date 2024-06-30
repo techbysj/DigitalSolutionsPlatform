@@ -94,15 +94,7 @@ const NavBar = () => {
                 <a href='#'>Home</a>
               </li>
               <li className='menu-item-has-children'>
-                <a href='#'>Service</a>
-                <ul className='sub-menu'>
-                  <li>
-                    <Link to='/service'>Service</Link>
-                  </li>
-                  <li>
-                    <Link to='/service-details'>Service Single</Link>
-                  </li>
-                </ul>
+                <a href='/service'>Service</a>
               </li>
               <li className='menu-item-has-children'>
                 <a href='#'>Pages</a>
