@@ -116,9 +116,9 @@ const NavBar = () => {
               <li className='menu-item-has-children'>
                 <a href='#'>Blog</a>
                 <ul className='sub-menu'>
-                  <li>
+                  {/* <li>
                     <Link to='/blog'>Blog</Link>
-                  </li>
+                  </li> */}
                   {/* <li>
                     <Link to='/blog-details'>Blog Details</Link>
                   </li> */}
