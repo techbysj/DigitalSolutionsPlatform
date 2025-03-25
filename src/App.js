@@ -40,7 +40,7 @@ function App() {
         <Route exact path='/team' element={<Team />} />
         <Route exact path='/team-details' element={<TeamDetails />} />
       </Routes>
-      <ScrollToTop smooth color='#246BFD' />
+      <ScrollToTop smooth color='#FDCE24FF' />
     </BrowserRouter>
   );
 }
