@@ -201,7 +201,7 @@ const FooterOne = () => {
           <div className='container'>
             <div className='row'>
               <div className='col-md-6 align-self-center'>
-                <p>© Yoursitename 2023 | All Rights Reserved</p>
+                <p>© TECHBYSJ 2030 | All Rights Reserved</p>
               </div>
               <div className='col-md-6 text-lg-end'>
                 <a href='#'>Trams &amp; Condition</a>
