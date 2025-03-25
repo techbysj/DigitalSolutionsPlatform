@@ -105,12 +105,12 @@ const NavBar = () => {
                   <li>
                     <Link to='/team'>Teams</Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link to='/team-details'>Team Details</Link>
-                  </li>
-                  <li>
+                  </li> */}
+                  {/* <li>
                     <Link to='/case-study-details'>Case Study Details</Link>
-                  </li>
+                  </li> */}
                 </ul>
               </li>
               <li className='menu-item-has-children'>
@@ -119,9 +119,9 @@ const NavBar = () => {
                   <li>
                     <Link to='/blog'>Blog</Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link to='/blog-details'>Blog Details</Link>
-                  </li>
+                  </li> */}
                 </ul>
               </li>
               <li>
@@ -135,7 +135,7 @@ const NavBar = () => {
                 <img src='assets/img/icon/1.png' alt='img' />
               </span>
               <span>Need help?</span>
-              <h5>(808) 555-0111</h5>
+              <h5>(+353) 555-0111</h5>
             </a>
           </div>
         </div>
